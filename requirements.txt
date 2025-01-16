@@ -1,0 +1,12 @@
+torch
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+joblib
+tqdm
+h5py
+numba
+basemap
