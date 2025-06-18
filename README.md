@@ -36,12 +36,22 @@ The training dataset is too large to be shared online. However, you can prepare 
    ```
 
 
+If you use SpT in your research, please cite as follows,
 
-<!-- ## Citation
+```bibtex
+@article{chenTransformerBasedFastMole2025,
+  title = {Transformer-Based Fast Mole Fraction of {CO}$_2$ Retrievals from Satellite-Measured Spectra},
+  author = {W. Chen and T. Ren and C. Zhao and Y. Wen and Y. Gu and M. Zhou and P. Wang},
+  year = {2025},
+  month = mar,
+  journal = {Journal of Remote Sensing},
+  volume = {5},
+  pages = {0470},
+  doi = {10.34133/remotesensing.0470}
+}
+```
 
-If you use SpT in your research, please cite the following paper:
-
-	Transformer-based fast XCO(_2) retrievals from satellite measured spectra -->
+W. Chen et al., "Transformer-Based Fast Mole Fraction of CO$_2$ Retrievals from Satellite-Measured Spectra," *Journal of Remote Sensing*, vol. 5, p. 0470, Mar. 2025, doi: 10.34133/remotesensing.0470.
 
 ## License
 
