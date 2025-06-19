@@ -35,6 +35,7 @@ The training dataset is too large to be shared online. However, you can prepare 
    python train_the_model.py
    ```
 
+## Cite as
 
 If you use SpT in your research, please cite as follows,
 
