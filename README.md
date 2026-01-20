@@ -1,13 +1,13 @@
 # Spectrum Transformer (SpT)
 
 ## Overview
-The Spectrum Transformer (SpT) is a novel Transformer-based neural network model designed for fast and accurate retrievals of column-averaged CO$_2$ dry air mole fraction (XCO$_2$) directly from satellite-measured spectra. The model significantly reduces computational time and offers robust performance, addressing challenges such as data drift due to increasing atmospheric CO$_2$ levels without requiring synthetic future data.
+The Spectrum Transformer (SpT) is a novel Transformer-based neural network model designed for fast and accurate retrievals of column-averaged CO₂ dry air mole fraction (XCO₂) directly from satellite-measured spectra. The model significantly reduces computational time and offers robust performance, addressing challenges such as data drift due to increasing atmospheric CO₂ levels without requiring synthetic future data.
 
 ## Key Features
 - **Fast and Accurate Retrievals**: Reduces computational time from minutes to milliseconds per retrieval.
 - **Unbiased Generalization**: In our numerical epxeriment, the model was trained on historical OCO-2 spectra (2017-2019) and validated on data from 2020-2022, achievd RMSE as low as 1.2 ppm, with close zero 0.0 ppm ME.
 - **Efficient Fine-Tuning**: Maintains accuracy with periodic fine-tuning using less than 10% of newly available data.
-- **Validated Performance**: Validated against TCCON ground-based measurements, capturing seasonal and regional variations in XCO$_2$.
+- **Validated Performance**: Validated against TCCON ground-based measurements, capturing seasonal and regional variations in XCO₂.
 
 ## Data Preparation
 The training dataset is too large to be shared online. However, you can prepare the required data as follows:
@@ -41,7 +41,7 @@ If you use SpT in your research, please cite as follows,
 
 ```bibtex
 @article{chenTransformerBasedFastMole2025,
-  title = {Transformer-Based Fast Mole Fraction of {CO}$_2$ Retrievals from Satellite-Measured Spectra},
+  title = {Transformer-Based Fast Mole Fraction of {CO}₂ Retrievals from Satellite-Measured Spectra},
   author = {W. Chen and T. Ren and C. Zhao and Y. Wen and Y. Gu and M. Zhou and P. Wang},
   year = {2025},
   month = mar,
