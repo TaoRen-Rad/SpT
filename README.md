@@ -50,10 +50,18 @@ If you use SpT in your research, please cite as follows,
   pages = {0470},
   doi = {10.34133/remotesensing.0470}
 }
+
+@article{chenDeterministicProbabilisticLightweight2025,
+  title = {From Deterministic to Probabilistic: A Lightweight Framework for {Probabilistic Machine Learning in Trace Gas Remote Sensing},
+  author = {W. Chen and T. Ren and C. Zhao},
+  year = 2025,
+  month = dec,
+  journal = {Journal of Remote Sensing},
+  volume = {5},
+  pages = {0881},
+  doi = {10.34133/remotesensing.0881}
+}
 ```
-
-W. Chen et al., "Transformer-Based Fast Mole Fraction of CO$_2$ Retrievals from Satellite-Measured Spectra," *Journal of Remote Sensing*, vol. 5, p. 0470, Mar. 2025, doi: 10.34133/remotesensing.0470.
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
